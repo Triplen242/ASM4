@@ -1,0 +1,157 @@
+@media only screen and (max-width: 767px) {
+    [class="col-"] {
+        width: 100%;
+    }
+    #menu {
+        height: 120px;
+        padding: 25px 0px 0px 0px;
+        background-color: #556270;
+    }
+    #menu a {
+        text-decoration: none;
+    }
+    .a1 li {
+        font-size: 15px;
+        padding-right: 40px;
+        float: left;
+        list-style-type: none;
+        text-transform: uppercase;
+        font-weight: bold;
+        text-decoration: none;
+        font-family: 'Poppins', sans-serif;
+        display: flex;
+    }
+    .a2 li {
+        font-size: 15px;
+        padding-right: 40px;
+        float: right;
+        list-style-type: none;
+        text-transform: uppercase;
+        font-weight: bold;
+        text-decoration: none;
+        font-family: 'Poppins', sans-serif;
+        display: flex;
+    }
+    #menu a:link {
+        color: rgb(255, 255, 255);
+    }
+    #menu a:visited {
+        color: rgb(66, 66, 66);
+    }
+    #menu a:hover {
+        color: rgb(70, 255, 162);
+        }
+    #menu a:active {
+        color: red;
+    }
+    #banner img {
+        width: 100%;
+        height: 0px;
+        border-top: 2px #dbdbdb solid;
+    }
+    #banner {
+        padding: 0% 4% 0% 6%;
+    }
+    #banner h1 {
+        padding-top: 8%;
+        font-size: 60px;
+        font-family: Arial, Helvetica, sans-serif;
+        color: rgb(0, 0, 0);
+    }
+    #banner p {
+        top: 5px;
+        font-size: 20px;
+        font-family: Arial, Helvetica, sans-serif;
+        color: rgb(0, 0, 0);
+    }
+    #ct img {
+        width: 100%;
+        padding: 8% 3% 8% 0%;
+    }
+    #ct {
+        padding: 6% 4% 0% 6%;
+    }
+    #ct h2 {
+        font-size: 60px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    #ct p {
+        font-size: 20px;
+        font-family: Arial, Helvetica, sans-serif;
+        padding: 0% 0% 5% 0%;
+    }
+    #ft {
+        background-color: #ffffff;
+        padding: 4% 4% 4% 6%;
+    }
+    #ft h3 {
+        padding-top: 3%;
+        font-size: 60px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    #ft p {
+        font-family: Arial, Helvetica, sans-serif;
+        padding: 0% 0% 10% 0%;
+        font-size: 20px;
+    }
+    #ft a {
+        font-family: Arial, Helvetica, sans-serif;
+        padding: 10% 0%;
+        font-size: 20px;
+    }
+    #ft a:link {
+        color: rgb(26, 26, 26);
+    }
+    #ft a:visited {
+        color: rgb(26, 26, 26);
+    }
+    #ft a:hover {
+        color: rgb(70, 255, 162);
+        }
+    #ft a:active {
+        color: red;
+    }
+    .hp-1 {
+        width: 100%;
+        padding-left: 3%;
+        display: inline-block;
+    }
+    .hp-1 a:link {
+        color: rgb(19, 121, 255);
+    }
+    .hp-1 a:visited {
+        color: rgb(19, 121, 255);
+    }
+    .hp-1 a:hover {
+        color: rgb(70, 255, 162);
+        }
+    .hp-1 a:active {
+        color: red;
+    }
+    .br-1 {
+        width: 100%;
+        padding-left: 3%;
+        padding-right: 3%;
+        background-color: #efefef;
+        display: inline-block;
+        font-family: 'Open Sans', sans-serif;
+    }
+    .br-1 img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 80%;
+    }
+    .br-1 a:link {
+        color: rgb(19, 121, 255);
+    }
+    .br-1 a:visited {
+        color: rgb(19, 121, 255);
+    }
+    .br-1 a:hover {
+        color: rgb(70, 255, 162);
+        }
+    .br-1 a:active {
+        color: red;
+    }
+}    
